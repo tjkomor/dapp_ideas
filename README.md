@@ -5,7 +5,7 @@ the perspective of a full stack engineer interested in transitioning into the sp
 or anyone from a less technical background who are interested in learning.
 
 
-## Buildspace:
+## Buildspace
 
 ### PROS:
 1. Accesible community (discord)
@@ -27,20 +27,19 @@ or anyone from a less technical background who are interested in learning.
 
 ## Ideas
 
-Exercism but for Foundry
-    <exercism.org>
+### Exercism but for Foundry
     
-    exercisms are a great learning resource where there are basic tests in place and your job is to 
-    go implement the code that makes the tests pass. It's an awesome tool for learning a language.
-    This concept could be applied to Foundry, but in a much more complex way. You could have some sort of a boilerplate
-    app that anyone can fork or clone. This app has a bunch of objectives. An objective could be anything - making a test pass,
-    using some specific feature of Foundry, creating a PR on a sweet open source dapp,
-    directing you to an external resource about the importance of some concept in decentralized apps 
-    and you come back and write some code that directly applies this concept.  
+exercisms are a great learning resource where there are basic tests in place and your job is to 
+go implement the code that makes the tests pass. It's an awesome tool for learning a language.
+This concept could be applied to Foundry, but in a much more complex way. You could have some sort of a boilerplate
+app that anyone can fork or clone. This app has a bunch of objectives. An objective could be anything - making a test pass,
+using some specific feature of Foundry, creating a PR on a sweet open source dapp,
+directing you to an external resource about the importance of some concept in decentralized apps 
+and you come back and write some code that directly applies this concept.  
 
-    This would not only accomplish learning how to use Foundry, but given the fact you actually need to use Foundry, you are
-    also inherently learning about things that are critical to becoming a dapp developer who is capable of shipping production ready code.
+This would not only accomplish learning how to use Foundry, but given the fact you actually need to use Foundry, you are
+also inherently learning about things that are critical to becoming a dapp developer who is capable of shipping production ready code.
 
-    And so maybe it makes more sense to do some of what I'm suggesting without Foundry? I'm not sure. But from my POV,
-    it seems like if you understand the tools available to you in Foundry, and how to use them, then you also probably have 
-    a reasonbly good understanding of how to build a dapp and the important practices involved. 
+And so maybe it makes more sense to do some of what I'm suggesting without Foundry? I'm not sure. But from my POV,
+it seems like if you understand the tools available to you in Foundry, and how to use them, then you also probably have 
+a reasonbly good understanding of how to build a dapp and the important practices involved. 
