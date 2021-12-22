@@ -28,7 +28,7 @@ or anyone from a less technical background who are interested in learning.
 ## Ideas
 
 ### Exercism but for Foundry
-    [Exercism](https://www.exercism.org)
+    <exercism.org>
     
     exercisms are a great learning resource where there are basic tests in place and your job is to 
     go implement the code that makes the tests pass. It's an awesome tool for learning a language.
