@@ -5,16 +5,16 @@ the perspective of a full stack engineer interested in transitioning into the sp
 or anyone from a less technical background who are interested in learning.
 
 
-## H2 Buildspace:
+## Buildspace:
 
-### H3 PROS:
+### PROS:
 1. Accesible community (discord)
 2. Logical, coherant syllabus
 3. Can move at your own pace
 4. Clearly defined end goal 
 5. Clearly defined checkpoints
 
-### H3 CONS:
+### CONS:
 1. Very basic
 2. Hard to understand how to take basic learnings and move to a higher level of        complexity
 3. Skips over how things actually work
@@ -25,9 +25,9 @@ or anyone from a less technical background who are interested in learning.
     most web3 learning resources. 
 
 
-## H2 Ideas
+## Ideas
 
-### H3 Exercism but for Foundry
+### Exercism but for Foundry
     [Exercism](https://www.exercism.org)
     
     exercisms are a great learning resource where there are basic tests in place and your job is to 
