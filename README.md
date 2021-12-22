@@ -29,7 +29,7 @@ or anyone from a less technical background who are interested in learning.
 
 ### Exercism but for Foundry
     
-[Exercisms] (http://www.exercism.org) are a great learning resource where there are basic tests in place and your job is to 
+[Exercisms](http://www.exercism.org) are a great learning resource where there are basic tests in place and your job is to 
 go implement the code that makes the tests pass. It's an awesome tool for learning a language.
 This concept could be applied to Foundry, but in a much more complex way. You could have some sort of a boilerplate
 app that anyone can fork or clone. This app has a bunch of objectives. An objective could be anything - making a test pass,
