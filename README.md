@@ -17,7 +17,7 @@ or anyone from a less technical background who are interested in learning.
 ### CONS:
 1. Very basic
 2. Hard to understand how to take basic learnings and move to a higher level of        complexity
-3. Skips over how things actually work
+3. Skips over how things actually work.
    Buildspace projects are the equivalent of teaching someone how to use Ruby on Rails (or any framework).
     You can make it work, and you can even reproduce a new project on your own after enough repitition,
     but you never learn what an HTTP request or response is, or how the data actually flows 
