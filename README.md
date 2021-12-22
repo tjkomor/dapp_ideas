@@ -27,7 +27,7 @@ or anyone from a less technical background who are interested in learning.
 
 ## Ideas
 
-### Exercism but for Foundry
+Exercism but for Foundry
     <exercism.org>
     
     exercisms are a great learning resource where there are basic tests in place and your job is to 
